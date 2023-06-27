@@ -1,0 +1,13 @@
+{
+    "name": "Nim dice"
+    ,"build": {
+        "dockerfile": "Dockerfile"
+    }
+    ,"customizations": {
+        "vscode": {
+            "extensions": [
+				"nimsaem.nimvscode"
+			]
+        }
+    }
+}
